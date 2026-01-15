@@ -28,7 +28,7 @@ default:
 
 dev-public:
     announcements_file:           "./program/data/announcements.yaml"
-    require_password:             TRUE
+    require_password:             FALSE
 
 
 prod-public:
